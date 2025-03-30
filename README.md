@@ -152,6 +152,8 @@ Este proyecto fue desarrollado como parte de un análisis de datos climáticos u
 
 # Análisis de Eventos Climáticos y Comparación de Temperaturas
 
+## Utilizando Eventos climaticos - comparacion de temps.ipynb
+
 Este proyecto utiliza datos meteorológicos públicos de NOAA GSOD para analizar eventos climáticos y comparar temperaturas promedio diarias entre los años 2020 y 2024. El análisis incluye la limpieza de datos, el conteo de eventos climáticos, y la visualización de tendencias de temperatura y ocurrencias de eventos.
 
 ## Requisitos Previos
