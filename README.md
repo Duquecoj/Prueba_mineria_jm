@@ -1,1 +1,0 @@
-# Prueba_mineria_jm
