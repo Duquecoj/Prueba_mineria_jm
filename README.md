@@ -23,7 +23,7 @@
    - [Ejecución](#ejecución)
 6. [Créditos](#6-créditos)
 # Análisis de Datos Climáticos: NOAA Global Surface Summary of the Day y NASA POWER API
-
+## Utilizando mineria_S1.ipynb
 Este proyecto analiza datos climáticos históricos y en tiempo real utilizando el dataset de **NOAA Global Surface Summary of the Day** y la API pública de **NASA POWER**. A continuación, se describen las etapas principales del proyecto, los hallazgos obtenidos y las deducciones realizadas.
 
 ## 1. Exploración de Datos
